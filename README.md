@@ -1,2 +1,2 @@
-# suresh-techs
-SureshTechs Websites
+# Jasti-GIT
+I am learning GIT
